@@ -1,0 +1,52 @@
+$days: mon 1, tue 2, wed 3, thu 4, fri 5, sat 6, sun 7;
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+
+    div.calendar {
+    margin-top: 30px;
+    display: grid;
+    grid-template: repeat(5, 100px) / repeat(7, 100px);
+    grid-gap: 3px 3px;
+    justify-content: center;
+
+        div {
+            width: 100px;
+            height: 100px;
+            line-height: 100px;
+            text-align: center;
+            background: #eee;
+            border: 1px solid black;
+            transition: background-color 0.5s, transform 0.5s;
+            display: none;
+
+            &:hover {
+                background-color: pink;
+                transform: translateY(-20px);
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+@for $all_days from 28 through 31 {
+    @for $i from 1 through $all_days {
+        div.calendar-#{$all_days} div:nth-child(#{$i}){
+            display: block;
+            
+            &::after {
+                content: "#{$i}";
+            }
+        }
+    }
+}
+
+
+@each $name_day, $index_day in $days {
+    .calendar-#{$name_day} div:first-child {
+        grid-column-start: #{$index_day};
+    }
+}
+
