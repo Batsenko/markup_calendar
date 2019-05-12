@@ -1,4 +1,4 @@
-$days: mon 1, tue 2, wed 3, thu 4, fri 5, sat 6, sun 7;
+$days: (mon, tue, wed, thu, fri, sat, sun);
 
 body {
     margin: 0;
@@ -33,7 +33,7 @@ body {
 
 @for $all_days from 28 through 31 {
     @for $i from 1 through $all_days {
-        div.calendar-#{$all_days} div:nth-child(#{$i}){
+        .calendar-#{$all_days} div:nth-child(#{$i}){
             display: block;
             
             &::after {
@@ -44,9 +44,9 @@ body {
 }
 
 
-@each $name_day, $index_day in $days {
+@each $name_day in $days {
     .calendar-#{$name_day} div:first-child {
-        grid-column-start: #{$index_day};
+        grid-column-start: index($days, $name_day);
     }
 }
 

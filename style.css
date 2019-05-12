@@ -26,829 +26,829 @@ body div.calendar div:hover {
   cursor: pointer;
 }
 
-div.calendar-28 div:nth-child(1) {
+.calendar-28 div:nth-child(1) {
   display: block;
 }
-div.calendar-28 div:nth-child(1)::after {
+.calendar-28 div:nth-child(1)::after {
   content: "1";
 }
 
-div.calendar-28 div:nth-child(2) {
+.calendar-28 div:nth-child(2) {
   display: block;
 }
-div.calendar-28 div:nth-child(2)::after {
+.calendar-28 div:nth-child(2)::after {
   content: "2";
 }
 
-div.calendar-28 div:nth-child(3) {
+.calendar-28 div:nth-child(3) {
   display: block;
 }
-div.calendar-28 div:nth-child(3)::after {
+.calendar-28 div:nth-child(3)::after {
   content: "3";
 }
 
-div.calendar-28 div:nth-child(4) {
+.calendar-28 div:nth-child(4) {
   display: block;
 }
-div.calendar-28 div:nth-child(4)::after {
+.calendar-28 div:nth-child(4)::after {
   content: "4";
 }
 
-div.calendar-28 div:nth-child(5) {
+.calendar-28 div:nth-child(5) {
   display: block;
 }
-div.calendar-28 div:nth-child(5)::after {
+.calendar-28 div:nth-child(5)::after {
   content: "5";
 }
 
-div.calendar-28 div:nth-child(6) {
+.calendar-28 div:nth-child(6) {
   display: block;
 }
-div.calendar-28 div:nth-child(6)::after {
+.calendar-28 div:nth-child(6)::after {
   content: "6";
 }
 
-div.calendar-28 div:nth-child(7) {
+.calendar-28 div:nth-child(7) {
   display: block;
 }
-div.calendar-28 div:nth-child(7)::after {
+.calendar-28 div:nth-child(7)::after {
   content: "7";
 }
 
-div.calendar-28 div:nth-child(8) {
+.calendar-28 div:nth-child(8) {
   display: block;
 }
-div.calendar-28 div:nth-child(8)::after {
+.calendar-28 div:nth-child(8)::after {
   content: "8";
 }
 
-div.calendar-28 div:nth-child(9) {
+.calendar-28 div:nth-child(9) {
   display: block;
 }
-div.calendar-28 div:nth-child(9)::after {
+.calendar-28 div:nth-child(9)::after {
   content: "9";
 }
 
-div.calendar-28 div:nth-child(10) {
+.calendar-28 div:nth-child(10) {
   display: block;
 }
-div.calendar-28 div:nth-child(10)::after {
+.calendar-28 div:nth-child(10)::after {
   content: "10";
 }
 
-div.calendar-28 div:nth-child(11) {
+.calendar-28 div:nth-child(11) {
   display: block;
 }
-div.calendar-28 div:nth-child(11)::after {
+.calendar-28 div:nth-child(11)::after {
   content: "11";
 }
 
-div.calendar-28 div:nth-child(12) {
+.calendar-28 div:nth-child(12) {
   display: block;
 }
-div.calendar-28 div:nth-child(12)::after {
+.calendar-28 div:nth-child(12)::after {
   content: "12";
 }
 
-div.calendar-28 div:nth-child(13) {
+.calendar-28 div:nth-child(13) {
   display: block;
 }
-div.calendar-28 div:nth-child(13)::after {
+.calendar-28 div:nth-child(13)::after {
   content: "13";
 }
 
-div.calendar-28 div:nth-child(14) {
+.calendar-28 div:nth-child(14) {
   display: block;
 }
-div.calendar-28 div:nth-child(14)::after {
+.calendar-28 div:nth-child(14)::after {
   content: "14";
 }
 
-div.calendar-28 div:nth-child(15) {
+.calendar-28 div:nth-child(15) {
   display: block;
 }
-div.calendar-28 div:nth-child(15)::after {
+.calendar-28 div:nth-child(15)::after {
   content: "15";
 }
 
-div.calendar-28 div:nth-child(16) {
+.calendar-28 div:nth-child(16) {
   display: block;
 }
-div.calendar-28 div:nth-child(16)::after {
+.calendar-28 div:nth-child(16)::after {
   content: "16";
 }
 
-div.calendar-28 div:nth-child(17) {
+.calendar-28 div:nth-child(17) {
   display: block;
 }
-div.calendar-28 div:nth-child(17)::after {
+.calendar-28 div:nth-child(17)::after {
   content: "17";
 }
 
-div.calendar-28 div:nth-child(18) {
+.calendar-28 div:nth-child(18) {
   display: block;
 }
-div.calendar-28 div:nth-child(18)::after {
+.calendar-28 div:nth-child(18)::after {
   content: "18";
 }
 
-div.calendar-28 div:nth-child(19) {
+.calendar-28 div:nth-child(19) {
   display: block;
 }
-div.calendar-28 div:nth-child(19)::after {
+.calendar-28 div:nth-child(19)::after {
   content: "19";
 }
 
-div.calendar-28 div:nth-child(20) {
+.calendar-28 div:nth-child(20) {
   display: block;
 }
-div.calendar-28 div:nth-child(20)::after {
+.calendar-28 div:nth-child(20)::after {
   content: "20";
 }
 
-div.calendar-28 div:nth-child(21) {
+.calendar-28 div:nth-child(21) {
   display: block;
 }
-div.calendar-28 div:nth-child(21)::after {
+.calendar-28 div:nth-child(21)::after {
   content: "21";
 }
 
-div.calendar-28 div:nth-child(22) {
+.calendar-28 div:nth-child(22) {
   display: block;
 }
-div.calendar-28 div:nth-child(22)::after {
+.calendar-28 div:nth-child(22)::after {
   content: "22";
 }
 
-div.calendar-28 div:nth-child(23) {
+.calendar-28 div:nth-child(23) {
   display: block;
 }
-div.calendar-28 div:nth-child(23)::after {
+.calendar-28 div:nth-child(23)::after {
   content: "23";
 }
 
-div.calendar-28 div:nth-child(24) {
+.calendar-28 div:nth-child(24) {
   display: block;
 }
-div.calendar-28 div:nth-child(24)::after {
+.calendar-28 div:nth-child(24)::after {
   content: "24";
 }
 
-div.calendar-28 div:nth-child(25) {
+.calendar-28 div:nth-child(25) {
   display: block;
 }
-div.calendar-28 div:nth-child(25)::after {
+.calendar-28 div:nth-child(25)::after {
   content: "25";
 }
 
-div.calendar-28 div:nth-child(26) {
+.calendar-28 div:nth-child(26) {
   display: block;
 }
-div.calendar-28 div:nth-child(26)::after {
+.calendar-28 div:nth-child(26)::after {
   content: "26";
 }
 
-div.calendar-28 div:nth-child(27) {
+.calendar-28 div:nth-child(27) {
   display: block;
 }
-div.calendar-28 div:nth-child(27)::after {
+.calendar-28 div:nth-child(27)::after {
   content: "27";
 }
 
-div.calendar-28 div:nth-child(28) {
+.calendar-28 div:nth-child(28) {
   display: block;
 }
-div.calendar-28 div:nth-child(28)::after {
+.calendar-28 div:nth-child(28)::after {
   content: "28";
 }
 
-div.calendar-29 div:nth-child(1) {
+.calendar-29 div:nth-child(1) {
   display: block;
 }
-div.calendar-29 div:nth-child(1)::after {
+.calendar-29 div:nth-child(1)::after {
   content: "1";
 }
 
-div.calendar-29 div:nth-child(2) {
+.calendar-29 div:nth-child(2) {
   display: block;
 }
-div.calendar-29 div:nth-child(2)::after {
+.calendar-29 div:nth-child(2)::after {
   content: "2";
 }
 
-div.calendar-29 div:nth-child(3) {
+.calendar-29 div:nth-child(3) {
   display: block;
 }
-div.calendar-29 div:nth-child(3)::after {
+.calendar-29 div:nth-child(3)::after {
   content: "3";
 }
 
-div.calendar-29 div:nth-child(4) {
+.calendar-29 div:nth-child(4) {
   display: block;
 }
-div.calendar-29 div:nth-child(4)::after {
+.calendar-29 div:nth-child(4)::after {
   content: "4";
 }
 
-div.calendar-29 div:nth-child(5) {
+.calendar-29 div:nth-child(5) {
   display: block;
 }
-div.calendar-29 div:nth-child(5)::after {
+.calendar-29 div:nth-child(5)::after {
   content: "5";
 }
 
-div.calendar-29 div:nth-child(6) {
+.calendar-29 div:nth-child(6) {
   display: block;
 }
-div.calendar-29 div:nth-child(6)::after {
+.calendar-29 div:nth-child(6)::after {
   content: "6";
 }
 
-div.calendar-29 div:nth-child(7) {
+.calendar-29 div:nth-child(7) {
   display: block;
 }
-div.calendar-29 div:nth-child(7)::after {
+.calendar-29 div:nth-child(7)::after {
   content: "7";
 }
 
-div.calendar-29 div:nth-child(8) {
+.calendar-29 div:nth-child(8) {
   display: block;
 }
-div.calendar-29 div:nth-child(8)::after {
+.calendar-29 div:nth-child(8)::after {
   content: "8";
 }
 
-div.calendar-29 div:nth-child(9) {
+.calendar-29 div:nth-child(9) {
   display: block;
 }
-div.calendar-29 div:nth-child(9)::after {
+.calendar-29 div:nth-child(9)::after {
   content: "9";
 }
 
-div.calendar-29 div:nth-child(10) {
+.calendar-29 div:nth-child(10) {
   display: block;
 }
-div.calendar-29 div:nth-child(10)::after {
+.calendar-29 div:nth-child(10)::after {
   content: "10";
 }
 
-div.calendar-29 div:nth-child(11) {
+.calendar-29 div:nth-child(11) {
   display: block;
 }
-div.calendar-29 div:nth-child(11)::after {
+.calendar-29 div:nth-child(11)::after {
   content: "11";
 }
 
-div.calendar-29 div:nth-child(12) {
+.calendar-29 div:nth-child(12) {
   display: block;
 }
-div.calendar-29 div:nth-child(12)::after {
+.calendar-29 div:nth-child(12)::after {
   content: "12";
 }
 
-div.calendar-29 div:nth-child(13) {
+.calendar-29 div:nth-child(13) {
   display: block;
 }
-div.calendar-29 div:nth-child(13)::after {
+.calendar-29 div:nth-child(13)::after {
   content: "13";
 }
 
-div.calendar-29 div:nth-child(14) {
+.calendar-29 div:nth-child(14) {
   display: block;
 }
-div.calendar-29 div:nth-child(14)::after {
+.calendar-29 div:nth-child(14)::after {
   content: "14";
 }
 
-div.calendar-29 div:nth-child(15) {
+.calendar-29 div:nth-child(15) {
   display: block;
 }
-div.calendar-29 div:nth-child(15)::after {
+.calendar-29 div:nth-child(15)::after {
   content: "15";
 }
 
-div.calendar-29 div:nth-child(16) {
+.calendar-29 div:nth-child(16) {
   display: block;
 }
-div.calendar-29 div:nth-child(16)::after {
+.calendar-29 div:nth-child(16)::after {
   content: "16";
 }
 
-div.calendar-29 div:nth-child(17) {
+.calendar-29 div:nth-child(17) {
   display: block;
 }
-div.calendar-29 div:nth-child(17)::after {
+.calendar-29 div:nth-child(17)::after {
   content: "17";
 }
 
-div.calendar-29 div:nth-child(18) {
+.calendar-29 div:nth-child(18) {
   display: block;
 }
-div.calendar-29 div:nth-child(18)::after {
+.calendar-29 div:nth-child(18)::after {
   content: "18";
 }
 
-div.calendar-29 div:nth-child(19) {
+.calendar-29 div:nth-child(19) {
   display: block;
 }
-div.calendar-29 div:nth-child(19)::after {
+.calendar-29 div:nth-child(19)::after {
   content: "19";
 }
 
-div.calendar-29 div:nth-child(20) {
+.calendar-29 div:nth-child(20) {
   display: block;
 }
-div.calendar-29 div:nth-child(20)::after {
+.calendar-29 div:nth-child(20)::after {
   content: "20";
 }
 
-div.calendar-29 div:nth-child(21) {
+.calendar-29 div:nth-child(21) {
   display: block;
 }
-div.calendar-29 div:nth-child(21)::after {
+.calendar-29 div:nth-child(21)::after {
   content: "21";
 }
 
-div.calendar-29 div:nth-child(22) {
+.calendar-29 div:nth-child(22) {
   display: block;
 }
-div.calendar-29 div:nth-child(22)::after {
+.calendar-29 div:nth-child(22)::after {
   content: "22";
 }
 
-div.calendar-29 div:nth-child(23) {
+.calendar-29 div:nth-child(23) {
   display: block;
 }
-div.calendar-29 div:nth-child(23)::after {
+.calendar-29 div:nth-child(23)::after {
   content: "23";
 }
 
-div.calendar-29 div:nth-child(24) {
+.calendar-29 div:nth-child(24) {
   display: block;
 }
-div.calendar-29 div:nth-child(24)::after {
+.calendar-29 div:nth-child(24)::after {
   content: "24";
 }
 
-div.calendar-29 div:nth-child(25) {
+.calendar-29 div:nth-child(25) {
   display: block;
 }
-div.calendar-29 div:nth-child(25)::after {
+.calendar-29 div:nth-child(25)::after {
   content: "25";
 }
 
-div.calendar-29 div:nth-child(26) {
+.calendar-29 div:nth-child(26) {
   display: block;
 }
-div.calendar-29 div:nth-child(26)::after {
+.calendar-29 div:nth-child(26)::after {
   content: "26";
 }
 
-div.calendar-29 div:nth-child(27) {
+.calendar-29 div:nth-child(27) {
   display: block;
 }
-div.calendar-29 div:nth-child(27)::after {
+.calendar-29 div:nth-child(27)::after {
   content: "27";
 }
 
-div.calendar-29 div:nth-child(28) {
+.calendar-29 div:nth-child(28) {
   display: block;
 }
-div.calendar-29 div:nth-child(28)::after {
+.calendar-29 div:nth-child(28)::after {
   content: "28";
 }
 
-div.calendar-29 div:nth-child(29) {
+.calendar-29 div:nth-child(29) {
   display: block;
 }
-div.calendar-29 div:nth-child(29)::after {
+.calendar-29 div:nth-child(29)::after {
   content: "29";
 }
 
-div.calendar-30 div:nth-child(1) {
+.calendar-30 div:nth-child(1) {
   display: block;
 }
-div.calendar-30 div:nth-child(1)::after {
+.calendar-30 div:nth-child(1)::after {
   content: "1";
 }
 
-div.calendar-30 div:nth-child(2) {
+.calendar-30 div:nth-child(2) {
   display: block;
 }
-div.calendar-30 div:nth-child(2)::after {
+.calendar-30 div:nth-child(2)::after {
   content: "2";
 }
 
-div.calendar-30 div:nth-child(3) {
+.calendar-30 div:nth-child(3) {
   display: block;
 }
-div.calendar-30 div:nth-child(3)::after {
+.calendar-30 div:nth-child(3)::after {
   content: "3";
 }
 
-div.calendar-30 div:nth-child(4) {
+.calendar-30 div:nth-child(4) {
   display: block;
 }
-div.calendar-30 div:nth-child(4)::after {
+.calendar-30 div:nth-child(4)::after {
   content: "4";
 }
 
-div.calendar-30 div:nth-child(5) {
+.calendar-30 div:nth-child(5) {
   display: block;
 }
-div.calendar-30 div:nth-child(5)::after {
+.calendar-30 div:nth-child(5)::after {
   content: "5";
 }
 
-div.calendar-30 div:nth-child(6) {
+.calendar-30 div:nth-child(6) {
   display: block;
 }
-div.calendar-30 div:nth-child(6)::after {
+.calendar-30 div:nth-child(6)::after {
   content: "6";
 }
 
-div.calendar-30 div:nth-child(7) {
+.calendar-30 div:nth-child(7) {
   display: block;
 }
-div.calendar-30 div:nth-child(7)::after {
+.calendar-30 div:nth-child(7)::after {
   content: "7";
 }
 
-div.calendar-30 div:nth-child(8) {
+.calendar-30 div:nth-child(8) {
   display: block;
 }
-div.calendar-30 div:nth-child(8)::after {
+.calendar-30 div:nth-child(8)::after {
   content: "8";
 }
 
-div.calendar-30 div:nth-child(9) {
+.calendar-30 div:nth-child(9) {
   display: block;
 }
-div.calendar-30 div:nth-child(9)::after {
+.calendar-30 div:nth-child(9)::after {
   content: "9";
 }
 
-div.calendar-30 div:nth-child(10) {
+.calendar-30 div:nth-child(10) {
   display: block;
 }
-div.calendar-30 div:nth-child(10)::after {
+.calendar-30 div:nth-child(10)::after {
   content: "10";
 }
 
-div.calendar-30 div:nth-child(11) {
+.calendar-30 div:nth-child(11) {
   display: block;
 }
-div.calendar-30 div:nth-child(11)::after {
+.calendar-30 div:nth-child(11)::after {
   content: "11";
 }
 
-div.calendar-30 div:nth-child(12) {
+.calendar-30 div:nth-child(12) {
   display: block;
 }
-div.calendar-30 div:nth-child(12)::after {
+.calendar-30 div:nth-child(12)::after {
   content: "12";
 }
 
-div.calendar-30 div:nth-child(13) {
+.calendar-30 div:nth-child(13) {
   display: block;
 }
-div.calendar-30 div:nth-child(13)::after {
+.calendar-30 div:nth-child(13)::after {
   content: "13";
 }
 
-div.calendar-30 div:nth-child(14) {
+.calendar-30 div:nth-child(14) {
   display: block;
 }
-div.calendar-30 div:nth-child(14)::after {
+.calendar-30 div:nth-child(14)::after {
   content: "14";
 }
 
-div.calendar-30 div:nth-child(15) {
+.calendar-30 div:nth-child(15) {
   display: block;
 }
-div.calendar-30 div:nth-child(15)::after {
+.calendar-30 div:nth-child(15)::after {
   content: "15";
 }
 
-div.calendar-30 div:nth-child(16) {
+.calendar-30 div:nth-child(16) {
   display: block;
 }
-div.calendar-30 div:nth-child(16)::after {
+.calendar-30 div:nth-child(16)::after {
   content: "16";
 }
 
-div.calendar-30 div:nth-child(17) {
+.calendar-30 div:nth-child(17) {
   display: block;
 }
-div.calendar-30 div:nth-child(17)::after {
+.calendar-30 div:nth-child(17)::after {
   content: "17";
 }
 
-div.calendar-30 div:nth-child(18) {
+.calendar-30 div:nth-child(18) {
   display: block;
 }
-div.calendar-30 div:nth-child(18)::after {
+.calendar-30 div:nth-child(18)::after {
   content: "18";
 }
 
-div.calendar-30 div:nth-child(19) {
+.calendar-30 div:nth-child(19) {
   display: block;
 }
-div.calendar-30 div:nth-child(19)::after {
+.calendar-30 div:nth-child(19)::after {
   content: "19";
 }
 
-div.calendar-30 div:nth-child(20) {
+.calendar-30 div:nth-child(20) {
   display: block;
 }
-div.calendar-30 div:nth-child(20)::after {
+.calendar-30 div:nth-child(20)::after {
   content: "20";
 }
 
-div.calendar-30 div:nth-child(21) {
+.calendar-30 div:nth-child(21) {
   display: block;
 }
-div.calendar-30 div:nth-child(21)::after {
+.calendar-30 div:nth-child(21)::after {
   content: "21";
 }
 
-div.calendar-30 div:nth-child(22) {
+.calendar-30 div:nth-child(22) {
   display: block;
 }
-div.calendar-30 div:nth-child(22)::after {
+.calendar-30 div:nth-child(22)::after {
   content: "22";
 }
 
-div.calendar-30 div:nth-child(23) {
+.calendar-30 div:nth-child(23) {
   display: block;
 }
-div.calendar-30 div:nth-child(23)::after {
+.calendar-30 div:nth-child(23)::after {
   content: "23";
 }
 
-div.calendar-30 div:nth-child(24) {
+.calendar-30 div:nth-child(24) {
   display: block;
 }
-div.calendar-30 div:nth-child(24)::after {
+.calendar-30 div:nth-child(24)::after {
   content: "24";
 }
 
-div.calendar-30 div:nth-child(25) {
+.calendar-30 div:nth-child(25) {
   display: block;
 }
-div.calendar-30 div:nth-child(25)::after {
+.calendar-30 div:nth-child(25)::after {
   content: "25";
 }
 
-div.calendar-30 div:nth-child(26) {
+.calendar-30 div:nth-child(26) {
   display: block;
 }
-div.calendar-30 div:nth-child(26)::after {
+.calendar-30 div:nth-child(26)::after {
   content: "26";
 }
 
-div.calendar-30 div:nth-child(27) {
+.calendar-30 div:nth-child(27) {
   display: block;
 }
-div.calendar-30 div:nth-child(27)::after {
+.calendar-30 div:nth-child(27)::after {
   content: "27";
 }
 
-div.calendar-30 div:nth-child(28) {
+.calendar-30 div:nth-child(28) {
   display: block;
 }
-div.calendar-30 div:nth-child(28)::after {
+.calendar-30 div:nth-child(28)::after {
   content: "28";
 }
 
-div.calendar-30 div:nth-child(29) {
+.calendar-30 div:nth-child(29) {
   display: block;
 }
-div.calendar-30 div:nth-child(29)::after {
+.calendar-30 div:nth-child(29)::after {
   content: "29";
 }
 
-div.calendar-30 div:nth-child(30) {
+.calendar-30 div:nth-child(30) {
   display: block;
 }
-div.calendar-30 div:nth-child(30)::after {
+.calendar-30 div:nth-child(30)::after {
   content: "30";
 }
 
-div.calendar-31 div:nth-child(1) {
+.calendar-31 div:nth-child(1) {
   display: block;
 }
-div.calendar-31 div:nth-child(1)::after {
+.calendar-31 div:nth-child(1)::after {
   content: "1";
 }
 
-div.calendar-31 div:nth-child(2) {
+.calendar-31 div:nth-child(2) {
   display: block;
 }
-div.calendar-31 div:nth-child(2)::after {
+.calendar-31 div:nth-child(2)::after {
   content: "2";
 }
 
-div.calendar-31 div:nth-child(3) {
+.calendar-31 div:nth-child(3) {
   display: block;
 }
-div.calendar-31 div:nth-child(3)::after {
+.calendar-31 div:nth-child(3)::after {
   content: "3";
 }
 
-div.calendar-31 div:nth-child(4) {
+.calendar-31 div:nth-child(4) {
   display: block;
 }
-div.calendar-31 div:nth-child(4)::after {
+.calendar-31 div:nth-child(4)::after {
   content: "4";
 }
 
-div.calendar-31 div:nth-child(5) {
+.calendar-31 div:nth-child(5) {
   display: block;
 }
-div.calendar-31 div:nth-child(5)::after {
+.calendar-31 div:nth-child(5)::after {
   content: "5";
 }
 
-div.calendar-31 div:nth-child(6) {
+.calendar-31 div:nth-child(6) {
   display: block;
 }
-div.calendar-31 div:nth-child(6)::after {
+.calendar-31 div:nth-child(6)::after {
   content: "6";
 }
 
-div.calendar-31 div:nth-child(7) {
+.calendar-31 div:nth-child(7) {
   display: block;
 }
-div.calendar-31 div:nth-child(7)::after {
+.calendar-31 div:nth-child(7)::after {
   content: "7";
 }
 
-div.calendar-31 div:nth-child(8) {
+.calendar-31 div:nth-child(8) {
   display: block;
 }
-div.calendar-31 div:nth-child(8)::after {
+.calendar-31 div:nth-child(8)::after {
   content: "8";
 }
 
-div.calendar-31 div:nth-child(9) {
+.calendar-31 div:nth-child(9) {
   display: block;
 }
-div.calendar-31 div:nth-child(9)::after {
+.calendar-31 div:nth-child(9)::after {
   content: "9";
 }
 
-div.calendar-31 div:nth-child(10) {
+.calendar-31 div:nth-child(10) {
   display: block;
 }
-div.calendar-31 div:nth-child(10)::after {
+.calendar-31 div:nth-child(10)::after {
   content: "10";
 }
 
-div.calendar-31 div:nth-child(11) {
+.calendar-31 div:nth-child(11) {
   display: block;
 }
-div.calendar-31 div:nth-child(11)::after {
+.calendar-31 div:nth-child(11)::after {
   content: "11";
 }
 
-div.calendar-31 div:nth-child(12) {
+.calendar-31 div:nth-child(12) {
   display: block;
 }
-div.calendar-31 div:nth-child(12)::after {
+.calendar-31 div:nth-child(12)::after {
   content: "12";
 }
 
-div.calendar-31 div:nth-child(13) {
+.calendar-31 div:nth-child(13) {
   display: block;
 }
-div.calendar-31 div:nth-child(13)::after {
+.calendar-31 div:nth-child(13)::after {
   content: "13";
 }
 
-div.calendar-31 div:nth-child(14) {
+.calendar-31 div:nth-child(14) {
   display: block;
 }
-div.calendar-31 div:nth-child(14)::after {
+.calendar-31 div:nth-child(14)::after {
   content: "14";
 }
 
-div.calendar-31 div:nth-child(15) {
+.calendar-31 div:nth-child(15) {
   display: block;
 }
-div.calendar-31 div:nth-child(15)::after {
+.calendar-31 div:nth-child(15)::after {
   content: "15";
 }
 
-div.calendar-31 div:nth-child(16) {
+.calendar-31 div:nth-child(16) {
   display: block;
 }
-div.calendar-31 div:nth-child(16)::after {
+.calendar-31 div:nth-child(16)::after {
   content: "16";
 }
 
-div.calendar-31 div:nth-child(17) {
+.calendar-31 div:nth-child(17) {
   display: block;
 }
-div.calendar-31 div:nth-child(17)::after {
+.calendar-31 div:nth-child(17)::after {
   content: "17";
 }
 
-div.calendar-31 div:nth-child(18) {
+.calendar-31 div:nth-child(18) {
   display: block;
 }
-div.calendar-31 div:nth-child(18)::after {
+.calendar-31 div:nth-child(18)::after {
   content: "18";
 }
 
-div.calendar-31 div:nth-child(19) {
+.calendar-31 div:nth-child(19) {
   display: block;
 }
-div.calendar-31 div:nth-child(19)::after {
+.calendar-31 div:nth-child(19)::after {
   content: "19";
 }
 
-div.calendar-31 div:nth-child(20) {
+.calendar-31 div:nth-child(20) {
   display: block;
 }
-div.calendar-31 div:nth-child(20)::after {
+.calendar-31 div:nth-child(20)::after {
   content: "20";
 }
 
-div.calendar-31 div:nth-child(21) {
+.calendar-31 div:nth-child(21) {
   display: block;
 }
-div.calendar-31 div:nth-child(21)::after {
+.calendar-31 div:nth-child(21)::after {
   content: "21";
 }
 
-div.calendar-31 div:nth-child(22) {
+.calendar-31 div:nth-child(22) {
   display: block;
 }
-div.calendar-31 div:nth-child(22)::after {
+.calendar-31 div:nth-child(22)::after {
   content: "22";
 }
 
-div.calendar-31 div:nth-child(23) {
+.calendar-31 div:nth-child(23) {
   display: block;
 }
-div.calendar-31 div:nth-child(23)::after {
+.calendar-31 div:nth-child(23)::after {
   content: "23";
 }
 
-div.calendar-31 div:nth-child(24) {
+.calendar-31 div:nth-child(24) {
   display: block;
 }
-div.calendar-31 div:nth-child(24)::after {
+.calendar-31 div:nth-child(24)::after {
   content: "24";
 }
 
-div.calendar-31 div:nth-child(25) {
+.calendar-31 div:nth-child(25) {
   display: block;
 }
-div.calendar-31 div:nth-child(25)::after {
+.calendar-31 div:nth-child(25)::after {
   content: "25";
 }
 
-div.calendar-31 div:nth-child(26) {
+.calendar-31 div:nth-child(26) {
   display: block;
 }
-div.calendar-31 div:nth-child(26)::after {
+.calendar-31 div:nth-child(26)::after {
   content: "26";
 }
 
-div.calendar-31 div:nth-child(27) {
+.calendar-31 div:nth-child(27) {
   display: block;
 }
-div.calendar-31 div:nth-child(27)::after {
+.calendar-31 div:nth-child(27)::after {
   content: "27";
 }
 
-div.calendar-31 div:nth-child(28) {
+.calendar-31 div:nth-child(28) {
   display: block;
 }
-div.calendar-31 div:nth-child(28)::after {
+.calendar-31 div:nth-child(28)::after {
   content: "28";
 }
 
-div.calendar-31 div:nth-child(29) {
+.calendar-31 div:nth-child(29) {
   display: block;
 }
-div.calendar-31 div:nth-child(29)::after {
+.calendar-31 div:nth-child(29)::after {
   content: "29";
 }
 
-div.calendar-31 div:nth-child(30) {
+.calendar-31 div:nth-child(30) {
   display: block;
 }
-div.calendar-31 div:nth-child(30)::after {
+.calendar-31 div:nth-child(30)::after {
   content: "30";
 }
 
-div.calendar-31 div:nth-child(31) {
+.calendar-31 div:nth-child(31) {
   display: block;
 }
-div.calendar-31 div:nth-child(31)::after {
+.calendar-31 div:nth-child(31)::after {
   content: "31";
 }
 
